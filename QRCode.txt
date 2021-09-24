@@ -1,0 +1,8 @@
+QR Code
+
+This project generates a QR code for a given block of text.
+The project makes use of error-correction.
+
+My implementatino of the solution can be found here:
+
+https://py3.codeskulptor.org/#user305_6cZ2m5GCFk_5.py

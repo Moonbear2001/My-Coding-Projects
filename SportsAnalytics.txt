@@ -1,0 +1,10 @@
+Sports Analytics
+
+This program predicts the outcome of baseball seasons using 122 different statistics.
+The problem is solved using matrices.  A linear model is used to characterize the relationship between
+statistics and the number of wins.  We attempt to express our measured variable, the number of wins,
+as a weighted sum of our explanatory variables.
+
+My implementation of the program can be found here: 
+
+https://py3.codeskulptor.org/#user305_nOsswsV24l_34.py

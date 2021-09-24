@@ -1,0 +1,13 @@
+Markov Chains
+
+This project uses Markov Chains to predict changes to a "stock market"
+The results of the calculations are displayed in a histogram and a line graph.
+
+This project predicts the behavior of stocks in the stock market. 
+It first builds a model using Markov Chains of a particular stock's (or stock index's) behavior based on past performance. 
+The model is then used to predict what the stock's price will do (go up a little/lot, go down a little/lot) 
+for the next few days in the future.
+
+The code for the project can be accessed here:
+
+https://py3.codeskulptor.org/#user305_0YLQOGVRdk_8.py
