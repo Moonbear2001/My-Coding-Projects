@@ -1,0 +1,13 @@
+Kevin Bacon Game
+
+This game is also known as the "Siz Degrees of Kavin Bacon", a game based on the concept of 6 degrees
+of separation.  This concept suggests that any two people in the world are 6 or fewer links apart.  In
+this game, links are based on actors that have starred in movies together.
+
+An example of the game can be found here:
+
+https://oracleofbacon.org/
+
+My implementation can be found at this link:
+
+https://py3.codeskulptor.org/#user305_LZUSSJtbbV_14.py

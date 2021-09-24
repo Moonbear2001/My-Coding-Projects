@@ -1,0 +1,10 @@
+Map Search
+
+This program implements a map search using 3 different algorithms:
+Breadth-First Search
+Depth-First Search
+A* Search
+
+My implementation of the solution can be found here:
+
+https://py3.codeskulptor.org/#user305_8BWRjWMnh9_25.py

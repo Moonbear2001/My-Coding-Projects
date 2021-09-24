@@ -1,0 +1,11 @@
+Projective Geometry
+
+This project uses projective geometry to implement a game called Spot it.  
+An example of this game can be found at: http://www.blueorangegames.com/spotit/
+
+The object of the game is that given any two cards, they will contain one matching image.
+The player has to find the image as fast as possible.
+
+My implementation of the game can be accessed at the following link:
+
+https://py3.codeskulptor.org/#user305_CinD3CfPrI_15.py
